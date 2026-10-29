@@ -1,1 +1,2 @@
-Display("test")
+def Dostuff():
+  Display("test")
